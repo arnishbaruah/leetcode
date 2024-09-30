@@ -1,8 +1,8 @@
 # LeetCode Solutions - 100 Days of Code
 This repository contains my solutions to LeetCode problems as part of the #100DaysOfCode challenge.
 
-# Progress:
 <!---LeetCode Topics Start-->
+# Progress:
 ## Array
 |  |
 | ------- |
