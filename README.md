@@ -2,7 +2,7 @@
 This repository contains my solutions to LeetCode problems as part of the #100DaysOfCode challenge.
 
 <!---LeetCode Topics Start-->
-# Progress:
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
