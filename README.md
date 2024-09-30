@@ -1,5 +1,5 @@
 # LeetCode Solutions - 100 Days of Code
-This repository contains my solutions to LeetCode problems as part of the #100DaysOfCode challenge.
+This repository contains my solutions to LeetCode problems as part of the [#100DaysOfCode](https://www.100daysofcode.com) challenge.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
