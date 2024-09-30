@@ -1,8 +1,8 @@
-# leetcode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions - 100 Days of Code
+This repository contains my solutions to LeetCode problems as part of the #100DaysOfCode challenge.
 
+# Progress:
 <!---LeetCode Topics Start-->
-# LeetCode Topics
 ## Array
 |  |
 | ------- |
