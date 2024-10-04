@@ -9,6 +9,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | [0001-two-sum](https://github.com/arnishbaruah/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arnishbaruah/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/arnishbaruah/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/arnishbaruah/leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arnishbaruah/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arnishbaruah/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/arnishbaruah/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/arnishbaruah/leetcode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
