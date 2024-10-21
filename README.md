@@ -7,6 +7,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arnishbaruah/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/arnishbaruah/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arnishbaruah/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/arnishbaruah/leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/arnishbaruah/leetcode/tree/master/0048-rotate-image) |
@@ -39,6 +40,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/arnishbaruah/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arnishbaruah/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/arnishbaruah/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/arnishbaruah/leetcode/tree/master/0075-sort-colors) |
@@ -62,6 +64,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/arnishbaruah/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/arnishbaruah/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/arnishbaruah/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/arnishbaruah/leetcode/tree/master/0229-majority-element-ii) |
