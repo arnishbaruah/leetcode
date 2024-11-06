@@ -37,6 +37,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | [0540-single-element-in-a-sorted-array](https://github.com/arnishbaruah/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arnishbaruah/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/arnishbaruah/leetcode/tree/master/0792-binary-search) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/arnishbaruah/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/arnishbaruah/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arnishbaruah/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -77,6 +78,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | [0493-reverse-pairs](https://github.com/arnishbaruah/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arnishbaruah/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/arnishbaruah/leetcode/tree/master/0792-binary-search) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/arnishbaruah/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/arnishbaruah/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
