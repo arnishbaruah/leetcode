@@ -68,6 +68,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | [0088-merge-sorted-array](https://github.com/arnishbaruah/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/arnishbaruah/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arnishbaruah/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/arnishbaruah/leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/arnishbaruah/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/arnishbaruah/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/arnishbaruah/leetcode/tree/master/0283-move-zeroes) |
@@ -110,6 +111,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | [0056-merge-intervals](https://github.com/arnishbaruah/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/arnishbaruah/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arnishbaruah/leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/arnishbaruah/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/arnishbaruah/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/arnishbaruah/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/arnishbaruah/leetcode/tree/master/0268-missing-number) |
@@ -118,6 +120,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arnishbaruah/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/arnishbaruah/leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/arnishbaruah/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/arnishbaruah/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnishbaruah/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/arnishbaruah/leetcode/tree/master/0493-reverse-pairs) |
@@ -166,6 +169,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/arnishbaruah/leetcode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/arnishbaruah/leetcode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -180,6 +184,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | ------- |
 | [0141-linked-list-cycle](https://github.com/arnishbaruah/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arnishbaruah/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/arnishbaruah/leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/arnishbaruah/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/arnishbaruah/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/arnishbaruah/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
