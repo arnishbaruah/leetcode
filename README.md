@@ -77,6 +77,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arnishbaruah/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/arnishbaruah/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/arnishbaruah/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/arnishbaruah/leetcode/tree/master/0268-missing-number) |
@@ -182,6 +183,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arnishbaruah/leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/arnishbaruah/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arnishbaruah/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/arnishbaruah/leetcode/tree/master/0148-sort-list) |
@@ -194,6 +196,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arnishbaruah/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/arnishbaruah/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/arnishbaruah/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
