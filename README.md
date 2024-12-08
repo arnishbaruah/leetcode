@@ -216,6 +216,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/arnishbaruah/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/arnishbaruah/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
@@ -230,4 +231,12 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/arnishbaruah/leetcode/tree/master/0131-palindrome-partitioning) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/arnishbaruah/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/arnishbaruah/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
