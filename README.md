@@ -44,6 +44,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | [0240-search-a-2d-matrix-ii](https://github.com/arnishbaruah/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/arnishbaruah/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arnishbaruah/leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/arnishbaruah/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/arnishbaruah/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/arnishbaruah/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/arnishbaruah/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -110,6 +111,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | [0162-find-peak-element](https://github.com/arnishbaruah/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnishbaruah/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/arnishbaruah/leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/arnishbaruah/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/arnishbaruah/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/arnishbaruah/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arnishbaruah/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -161,6 +163,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/arnishbaruah/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/arnishbaruah/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/arnishbaruah/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/arnishbaruah/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/arnishbaruah/leetcode/tree/master/0410-split-array-largest-sum) |
 ## Union Find
 |  |
