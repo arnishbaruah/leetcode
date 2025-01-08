@@ -72,6 +72,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | [0268-missing-number](https://github.com/arnishbaruah/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/arnishbaruah/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/arnishbaruah/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arnishbaruah/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +140,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | [0229-majority-element-ii](https://github.com/arnishbaruah/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/arnishbaruah/leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/arnishbaruah/leetcode/tree/master/0455-assign-cookies) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arnishbaruah/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -301,6 +303,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | [0124-binary-tree-maximum-path-sum](https://github.com/arnishbaruah/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arnishbaruah/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/arnishbaruah/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arnishbaruah/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -311,6 +314,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | [0124-binary-tree-maximum-path-sum](https://github.com/arnishbaruah/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arnishbaruah/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/arnishbaruah/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arnishbaruah/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -323,6 +327,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | [0124-binary-tree-maximum-path-sum](https://github.com/arnishbaruah/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arnishbaruah/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/arnishbaruah/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arnishbaruah/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -330,4 +335,5 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | [0102-binary-tree-level-order-traversal](https://github.com/arnishbaruah/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/arnishbaruah/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arnishbaruah/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arnishbaruah/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
