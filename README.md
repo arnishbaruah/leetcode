@@ -110,6 +110,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | [0074-search-a-2d-matrix](https://github.com/arnishbaruah/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arnishbaruah/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/arnishbaruah/leetcode/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/arnishbaruah/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnishbaruah/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/arnishbaruah/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/arnishbaruah/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -126,6 +127,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | [0078-subsets](https://github.com/arnishbaruah/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/arnishbaruah/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/arnishbaruah/leetcode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/arnishbaruah/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/arnishbaruah/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -304,6 +306,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | [0124-binary-tree-maximum-path-sum](https://github.com/arnishbaruah/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arnishbaruah/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/arnishbaruah/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/arnishbaruah/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arnishbaruah/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/arnishbaruah/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/arnishbaruah/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -336,6 +339,7 @@ This repository contains my solutions to LeetCode problems as part of the [#100D
 | [0124-binary-tree-maximum-path-sum](https://github.com/arnishbaruah/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arnishbaruah/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/arnishbaruah/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/arnishbaruah/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arnishbaruah/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/arnishbaruah/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/arnishbaruah/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
